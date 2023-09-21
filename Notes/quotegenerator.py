@@ -16,3 +16,10 @@ print("tom cruise -poster")
 input("what was your favourtie quote")
 
 print("Oh thats my favourite too")
+
+# ask the user what their favourite food is
+
+fave_food = input("what is your favourite food?")
+
+# resond to their anwser
+print(f"OOOOOO, {fave_food} sounds good")

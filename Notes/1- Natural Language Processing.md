@@ -31,3 +31,15 @@ The first free lines  of code
 # Input
 grab info from user using input()
 it will wait for the user to type something in and press Enter/return
+
+# Variables 
+variables allow us to store information for the time our app is running
+
+``` python
+favourite_food = input("What iis your favourite food")
+```
+
+favourite_food = name of variable
+
+
+# [[Strings]]
