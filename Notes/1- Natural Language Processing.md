@@ -43,3 +43,7 @@ favourite_food = name of variable
 
 
 # [[Strings]]
+
+# [[Design]]
+# [[Lists]]
+
