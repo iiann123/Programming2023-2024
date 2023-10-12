@@ -1,5 +1,5 @@
 # IAn Weng
-# 10/10
+# 10/10/23
 # Loop Practice
 
 # create a list of groceries
@@ -31,6 +31,6 @@ numbers= ["10" , "9", "8", "7", "6", "5", "4", "3", "2", "1" ,"Happy New Year"]
 
 for item in numbers:
     print(item)
-    time.sleep(1)
+    time.sleep(1) 
    
     
