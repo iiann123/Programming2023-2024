@@ -14,8 +14,5 @@ if fav_color.lower().strip(",. ?!") == "yes":
     print("dark side you are")
 elif cape.lower().strip(",. ?!") == "yes":
     print("dark side you are")
-elif fav_color.lower().strip(",. ?!") == "no":
+else: 
     print("light side")
-elif cape.lower().strip(",. ?!") == "no":
-    print("light side")
-else: print("light side")
