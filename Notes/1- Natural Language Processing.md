@@ -47,3 +47,8 @@ favourite_food = name of variable
 # [[Design]]
 # [[Lists]]
 
+# [[Modules]]
+
+# [[Boolean]]
+
+# [[Conditionals]]
