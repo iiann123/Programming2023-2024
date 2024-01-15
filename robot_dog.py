@@ -37,4 +37,4 @@ sum_y = max_y_val[1] + min_y_val[1]
 mid_x = sum_x/2
 mid_y = sum_y/2
 
-print(f"your mid point is {mid_x},{mid_y}")
+print(f"your mid point is ({mid_x},{mid_y})")
