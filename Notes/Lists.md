@@ -19,3 +19,28 @@ some_list[1] #sara
 some_list[0] # jimmy
 some_list[2] #Frederiuque
 ```
+
+# 2 dimensional lists
+
+so far all the list we used so far are one dimensional
+
+```python
+some_list = ["dadad", "dasdas"]
+```
+
+we can create two dimensional lists that in short are multiple lists inside bigger list
+are multiple lists inside a bigger list
+
+```python
+some_2d_list = [
+	[1,2,3]
+	[]
+				
+]
+```
+
+# Tuples
+
+tuples are like lists except for one main thing
+
+Tuples are imutable. Immutable 
